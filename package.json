@@ -1,0 +1,24 @@
+{
+  "name": "handlebars-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hb": "handlebars ./src/layouts -f ./src/dist/layout.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-banks/handlebars-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-banks/handlebars-playground/issues"
+  },
+  "homepage": "https://github.com/martin-banks/handlebars-playground#readme",
+  "dependencies": {
+    "handlebars": "^4.0.10"
+  }
+}
